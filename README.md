@@ -11,15 +11,11 @@ Discord Rich Presence integration for the C* Music Player (`cmus`).
 
   Cloning using HTTPS:
 
-      git clone https://github.com/Viniciuscgobbi/qrcode-generator
-
-  Cloning using `ssh`:
-
-      git clone git@github.com:Bond-009/cmus-discord-rpc.git
+      git clone https://github.com/Viniciuscgobbi/cmus-discord-rpc
 
   Downloading an archive using `wget`:
 
-       wget https://github.com/Viniciuscgobbi/qrcode-generator/archive/refs/heads/master.zip
+       wget https://github.com/Viniciuscgobbi/cmus-discord-rpc/archive/refs/heads/master.zip
 
        unzip master.zip
 
